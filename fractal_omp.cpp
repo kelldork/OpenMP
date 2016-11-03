@@ -20,6 +20,7 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Author: Martin Burtscher
+      : Kasie Kelldorf
 */
 
 #include <cstdlib>
@@ -98,4 +99,3 @@ int main(int argc, char *argv[])
   delete [] pic;
   return 0;
 }
-
